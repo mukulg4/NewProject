@@ -1,3 +1,7 @@
 test code
 
 const(test,expect) = require('@playwright/test');
+
+const obj1 =  page.locator("[attribute='value']");
+We are learning about github
+
